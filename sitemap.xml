@@ -3,15 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://furakumo.github.io/disenos.github.io/categories/</loc>
+    <loc>https://example.org/perso/bodas/animacion/</loc>
   </url>
   
   <url>
-    <loc>https://furakumo.github.io/disenos.github.io/</loc>
+    <loc>https://example.org/perso/bodas/</loc>
   </url>
   
   <url>
-    <loc>https://furakumo.github.io/disenos.github.io/tags/</loc>
+    <loc>https://example.org/categories/bodas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/perso/bodas/invitaciones/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/perso/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/perso/bodas/souvenirs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/</loc>
   </url>
   
 </urlset>
