@@ -3,39 +3,239 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://furakumo.github.io/disenos.github.io/perso/bodas/animacion/</loc>
+    <loc>https://example.com/perso/bodas/animacion/</loc>
   </url>
   
   <url>
-    <loc>https://furakumo.github.io/disenos.github.io/perso/bodas/</loc>
+    <loc>https://example.com/perso/xvanos/animacion/</loc>
   </url>
   
   <url>
-    <loc>https://furakumo.github.io/disenos.github.io/categories/bodas/</loc>
+    <loc>https://example.com/categories/baby-shower/</loc>
   </url>
   
   <url>
-    <loc>https://furakumo.github.io/disenos.github.io/categories/</loc>
+    <loc>https://example.com/perso/baby_shower/</loc>
   </url>
   
   <url>
-    <loc>https://furakumo.github.io/disenos.github.io/</loc>
+    <loc>https://example.com/categories/bautizo/comuni%C3%B3n/religiosas/</loc>
   </url>
   
   <url>
-    <loc>https://furakumo.github.io/disenos.github.io/perso/bodas/invitaciones/</loc>
+    <loc>https://example.com/perso/religiosas/</loc>
   </url>
   
   <url>
-    <loc>https://furakumo.github.io/disenos.github.io/perso/</loc>
+    <loc>https://example.com/categories/bodas/</loc>
   </url>
   
   <url>
-    <loc>https://furakumo.github.io/disenos.github.io/perso/bodas/souvenirs/</loc>
+    <loc>https://example.com/perso/bodas/</loc>
   </url>
   
   <url>
-    <loc>https://furakumo.github.io/disenos.github.io/tags/</loc>
+    <loc>https://example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/baby_shower/decoracion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/fiestas_infantiles/decoracion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/religiosas/decoracion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/fiestas_mexicanas/decoracion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/dia_de_las_madres/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/dia_del_abuelo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/dia-del-padre/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/fiestas_infantiles/dulcero/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/d%C3%ADa-de-las-madres/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/d%C3%ADa-del-abuelo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/dia_del_maestro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/d%C3%ADa-del-maestro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/dia_del_padre/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/fiestas-infantiles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/fiestas_infantiles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/fiestas-mexicanas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/fiestas_mexicanas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/baby_shower/invitaciones/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/bodas/invitaciones/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/religiosas/invitaciones/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/xvanos/invitaciones/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/maternidad/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/maternidad/gender-reveal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/religiosas/oraciones/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/maternidad/paquetes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/dia_de_las_madres/perzonalizados/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/dia_del_abuelo/perzonalizados/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/dia_del_maestro/perzonalizados/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/dia_del_padre/perzonalizados/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/fiestas_mexicanas/perzonalizados/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/san_valentin/perzonalizados/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/fiestas_infantiles/playeras/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/dia_de_las_madres/playeras/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/dia_del_abuelo/playeras/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/dia_del_maestro/playeras/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/dia_del_padre/playeras/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/fiestas_mexicanas/playeras/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/san_valentin/playeras/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/baby_shower/recuerdos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/religiosas/recuerdos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/san-valentin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pro/san_valentin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/bodas/souvenirs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/xvanos/souvenirs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/xv-a%C3%B1os/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/perso/xvanos/</loc>
   </url>
   
 </urlset>

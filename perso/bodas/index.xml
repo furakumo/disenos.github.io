@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BODAS on HUGO MyPortfolio Theme</title>
-    <link>https://furakumo.github.io/disenos.github.io/perso/bodas/</link>
-    <description>Recent content in BODAS on HUGO MyPortfolio Theme</description>
+    <title>Bodas on HUGO MyPortfolio Theme</title>
+    <link>https://example.com/perso/bodas/</link>
+    <description>Recent content in Bodas on HUGO MyPortfolio Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://furakumo.github.io/disenos.github.io/perso/bodas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/perso/bodas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Animación</title>
-      <link>https://furakumo.github.io/disenos.github.io/perso/bodas/animacion/</link>
+      <link>https://example.com/perso/bodas/animacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://furakumo.github.io/disenos.github.io/perso/bodas/animacion/</guid>
+      <guid>https://example.com/perso/bodas/animacion/</guid>
       <description>Drawing(s)&amp;hellip;</description>
     </item>
     
     <item>
       <title>invitaciones</title>
-      <link>https://furakumo.github.io/disenos.github.io/perso/bodas/invitaciones/</link>
+      <link>https://example.com/perso/bodas/invitaciones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://furakumo.github.io/disenos.github.io/perso/bodas/invitaciones/</guid>
+      <guid>https://example.com/perso/bodas/invitaciones/</guid>
       <description>Music drawings&amp;hellip;</description>
     </item>
     
     <item>
       <title>Souvenirs</title>
-      <link>https://furakumo.github.io/disenos.github.io/perso/bodas/souvenirs/</link>
+      <link>https://example.com/perso/bodas/souvenirs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://furakumo.github.io/disenos.github.io/perso/bodas/souvenirs/</guid>
+      <guid>https://example.com/perso/bodas/souvenirs/</guid>
       <description>Drawing(s)&amp;hellip;</description>
     </item>
     
