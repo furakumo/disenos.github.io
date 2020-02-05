@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Día del maestro on HUGO MyPortfolio Theme</title>
-    <link>https://example.com/categories/d%C3%ADa-del-maestro/</link>
+    <link>https://furakumo.github.io/disenos_web/categories/d%C3%ADa-del-maestro/</link>
     <description>Recent content in Día del maestro on HUGO MyPortfolio Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.com/categories/d%C3%ADa-del-maestro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://furakumo.github.io/disenos_web/categories/d%C3%ADa-del-maestro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Personalizados</title>
-      <link>https://example.com/pro/dia_del_maestro/perzonalizados/</link>
+      <link>https://furakumo.github.io/disenos_web/pro/dia_del_maestro/perzonalizados/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pro/dia_del_maestro/perzonalizados/</guid>
+      <guid>https://furakumo.github.io/disenos_web/pro/dia_del_maestro/perzonalizados/</guid>
       <description>Music drawings&amp;hellip;</description>
     </item>
     
     <item>
       <title>Playeras y sudaderas</title>
-      <link>https://example.com/pro/dia_del_abuelo/playeras/</link>
+      <link>https://furakumo.github.io/disenos_web/pro/dia_del_abuelo/playeras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pro/dia_del_abuelo/playeras/</guid>
+      <guid>https://furakumo.github.io/disenos_web/pro/dia_del_abuelo/playeras/</guid>
       <description>Drawing(s)&amp;hellip;</description>
     </item>
     
     <item>
       <title>Playeras y sudaderas</title>
-      <link>https://example.com/pro/dia_del_maestro/playeras/</link>
+      <link>https://furakumo.github.io/disenos_web/pro/dia_del_maestro/playeras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pro/dia_del_maestro/playeras/</guid>
+      <guid>https://furakumo.github.io/disenos_web/pro/dia_del_maestro/playeras/</guid>
       <description>Drawing(s)&amp;hellip;</description>
     </item>
     

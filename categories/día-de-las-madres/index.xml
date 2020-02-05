@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Día de las madres on HUGO MyPortfolio Theme</title>
-    <link>https://example.com/categories/d%C3%ADa-de-las-madres/</link>
+    <link>https://furakumo.github.io/disenos_web/categories/d%C3%ADa-de-las-madres/</link>
     <description>Recent content in Día de las madres on HUGO MyPortfolio Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.com/categories/d%C3%ADa-de-las-madres/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://furakumo.github.io/disenos_web/categories/d%C3%ADa-de-las-madres/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Personalizados</title>
-      <link>https://example.com/pro/dia_de_las_madres/perzonalizados/</link>
+      <link>https://furakumo.github.io/disenos_web/pro/dia_de_las_madres/perzonalizados/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pro/dia_de_las_madres/perzonalizados/</guid>
+      <guid>https://furakumo.github.io/disenos_web/pro/dia_de_las_madres/perzonalizados/</guid>
       <description>Music drawings&amp;hellip;</description>
     </item>
     
     <item>
       <title>Playeras y sudaderas</title>
-      <link>https://example.com/pro/dia_de_las_madres/playeras/</link>
+      <link>https://furakumo.github.io/disenos_web/pro/dia_de_las_madres/playeras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pro/dia_de_las_madres/playeras/</guid>
+      <guid>https://furakumo.github.io/disenos_web/pro/dia_de_las_madres/playeras/</guid>
       <description>Drawing(s)&amp;hellip;</description>
     </item>
     

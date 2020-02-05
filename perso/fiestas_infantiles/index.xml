@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fiestas Infantiles on HUGO MyPortfolio Theme</title>
-    <link>https://example.com/perso/fiestas_infantiles/</link>
+    <link>https://furakumo.github.io/disenos_web/perso/fiestas_infantiles/</link>
     <description>Recent content in Fiestas Infantiles on HUGO MyPortfolio Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.com/perso/fiestas_infantiles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://furakumo.github.io/disenos_web/perso/fiestas_infantiles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Decoración</title>
-      <link>https://example.com/perso/fiestas_infantiles/decoracion/</link>
+      <link>https://furakumo.github.io/disenos_web/perso/fiestas_infantiles/decoracion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/perso/fiestas_infantiles/decoracion/</guid>
+      <guid>https://furakumo.github.io/disenos_web/perso/fiestas_infantiles/decoracion/</guid>
       <description>Drawing(s)&amp;hellip;</description>
     </item>
     
     <item>
       <title>Dulceros</title>
-      <link>https://example.com/perso/fiestas_infantiles/dulcero/</link>
+      <link>https://furakumo.github.io/disenos_web/perso/fiestas_infantiles/dulcero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/perso/fiestas_infantiles/dulcero/</guid>
+      <guid>https://furakumo.github.io/disenos_web/perso/fiestas_infantiles/dulcero/</guid>
       <description>Drawing(s)&amp;hellip;</description>
     </item>
     
     <item>
       <title>Playeras</title>
-      <link>https://example.com/perso/fiestas_infantiles/playeras/</link>
+      <link>https://furakumo.github.io/disenos_web/perso/fiestas_infantiles/playeras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/perso/fiestas_infantiles/playeras/</guid>
+      <guid>https://furakumo.github.io/disenos_web/perso/fiestas_infantiles/playeras/</guid>
       <description>Music drawings&amp;hellip;</description>
     </item>
     
